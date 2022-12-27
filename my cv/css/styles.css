@@ -1,0 +1,68 @@
+.container-fluid{
+  background-color: #D0B8A8;
+  padding: 3% 15% 7%;
+  text-align: center;
+  margin: auto;
+}
+.title-image {
+  width: 30%;
+  margin: auto;
+  border-radius: 100%;
+  padding-top: 1.5rem;
+  /* transform: rotate(25deg); */
+
+  right: 30%
+}
+.nav-item {
+  padding: 0 18px;
+}
+.navbar {
+  padding: 0 0 4.5rem;
+}
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+}
+
+#introduce {
+  padding: 3% 15% 7%;
+  margin: 3% 15% 0;
+  text-align: center;
+  font-size: 1.6rem;
+  font-family: "Montserrat-Light";
+
+
+}
+
+#honors {
+  background-color: #D0B8A8;
+  padding: 3% 15% 7%;
+  margin: 3% 15% 0;
+  text-align: center;
+  font-size: 1.6rem;
+  font-family: "Montserrat-Light";
+  width: 100%;
+  margin: auto;
+}
+
+#skills {
+  padding: 3% 15% 7%;
+  margin: 3% 15% 0;
+  text-align: center;
+  font-size: 1.6rem;
+  font-family: "Montserrat-Light";
+  width: 100%;
+  margin: auto;
+
+}
+#footer {
+    background-color: #D0B8A8;
+  text-align: center;
+  background-color:
+  font-family: "Montserrat",sans-serif;
+  font-weight: 600;
+  padding: 7%
+}
+.button {
+  margin: 5px;
+}
